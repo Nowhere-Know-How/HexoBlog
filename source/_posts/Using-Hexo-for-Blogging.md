@@ -1,7 +1,10 @@
 ---
-title: Blogging with Hexo
+title: Using Hexo for Blogging
 thumbnail: /images/hexo.png
+date: 2020-02-17 00:01:59
+tags:
 ---
+
 Welcome to the first post of our blog! We are using [Hexo](https://hexo.io/) to generate most of this website. In order to use Hexo, check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can check open issues on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start From Scratch
